@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Bus Device Dummy</string>
+    <string name="gps_network_not_enabled">We need GPS satellites enabled in Settings > Location Access.</string>
+    <string name="enable">Enable</string>
+    <string name="cancel">Cancel</string>
+    <string name="no_location">Device Status: Waiting For Location...</string>
+    <string name="running">Device Status: Running</string>
+
+</resources>
